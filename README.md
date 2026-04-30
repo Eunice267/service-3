@@ -1,2 +1,1 @@
-hey there!!
-jhhhnbjhh
+This is a test of the refactored service
